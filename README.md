@@ -5,7 +5,7 @@ Original tutorial: https://www.youtube.com/watch?v=wLUJ9VNzZXo&t=1537s
 
 # Instructions:
 ## Installation:
-$ git clone https://github.com/MattHolmes2909/fractal-scroll
+    $ git clone https://github.com/MattHolmes2909/fractal-scroll
 
 ## How to run:
 - Open the repository in your IDE;
