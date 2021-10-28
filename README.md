@@ -16,7 +16,7 @@
 
 ## How to run:
 - Open the repository in your IDE;
-- Add the video you would like to animate (shorter videos work better!);
+- Add the video you would like to animate to the project (shorter videos work better!);
 - Open index.html;
 - On line 13, replace the stock video source with your video source;
 - Open in live server and enjoy!
