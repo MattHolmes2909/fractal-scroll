@@ -3,6 +3,13 @@
 - This repository follows a tutorial to create a scrolling webpage as seen on Apple websites.
 - Original tutorial: https://www.youtube.com/watch?v=wLUJ9VNzZXo&t=1537s
 
+## Built with:
+- Vanilla.js;
+- GSAP;
+- JavaScript;
+- HTML;
+- CSS;
+
 # Instructions:
 ## Installation:
     $ git clone https://github.com/MattHolmes2909/fractal-scroll
