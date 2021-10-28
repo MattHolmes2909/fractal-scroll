@@ -1,6 +1,6 @@
 # Fractal Scroll - [Matt Holmes](https:/github.com/MattHolmes2909)
 
-- This repository follows a tutorial to create a scrolling webpage as seen on apple websites.
+- This repository follows a tutorial to create a scrolling webpage as seen on Apple websites.
 - Original tutorial: https://www.youtube.com/watch?v=wLUJ9VNzZXo&t=1537s
 
 # Instructions:
